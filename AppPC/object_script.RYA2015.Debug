@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\settingsdialog.o
+./debug\console.o
+./debug\hostcomm.o
+./debug\aboutus.o
+./debug\imagedisplay.o
+./debug\imageprocessing.o
+./debug\qrc_image.o
+./debug\moc_mainwindow.o
+./debug\moc_settingsdialog.o
+./debug\moc_console.o
+./debug\moc_hostcomm.o
+./debug\moc_aboutus.o
+./debug\moc_imagedisplay.o
+);

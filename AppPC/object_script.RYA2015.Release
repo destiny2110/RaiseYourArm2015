@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\settingsdialog.o
+./release\console.o
+./release\hostcomm.o
+./release\aboutus.o
+./release\imagedisplay.o
+./release\imageprocessing.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_settingsdialog.o
+./release\moc_console.o
+./release\moc_hostcomm.o
+./release\moc_aboutus.o
+./release\moc_imagedisplay.o
+);

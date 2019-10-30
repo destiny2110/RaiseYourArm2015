@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/LogoV3ColorSmall.png</file>
+        <file>image/logopif.png</file>
+        <file>image/piflogo.jpg</file>
+        <file>image/robot.jpg</file>
+        <file>image/robot.png</file>
+        <file>image/png_leaf.png</file>
+        <file>image/png_leaf.jpg</file>
+    </qresource>
+</RCC>
